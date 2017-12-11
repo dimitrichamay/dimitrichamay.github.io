@@ -11,5 +11,13 @@
 .demo-canvas {
   
 }
+.wrap{
+    width: 1060px;
+    margin: auto;
+    }
+.text_over_image{
+    position: absolute;
+    top: 20px;
+    }   
 
 
