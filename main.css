@@ -1,7 +1,6 @@
 .container {
 	position: relative;
 	width: 100%;
-	background: #fff;
 	overflow: hidden;
 	background-size: cover;
 	background-position: center center;
@@ -9,22 +8,7 @@
 }
 
 .demo-canvas {
-  
+  margin: 0;
+  padding: 0;
 }
-.wrap {
-    width: 1060px;
-    height:auto;
-    margin: auto;
-    text-align:center;
-    position:relative;
-}
-.text_over_image {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left:0;
-    right:0;
-    bottom:0;
-    color:#fff;
-    height:100px;
-}
+
